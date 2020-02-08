@@ -1,6 +1,7 @@
 # throwIfUnsupportedProps
 
 ## Example
+
 ```
 import { throwIfUnsupportedProps } from 'justin-things-js-utils'
 const defaults = {hey:'yo'}
